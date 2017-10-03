@@ -1,1 +1,1 @@
-Shell Teach 04 sample message - changed
+Shell Teach 04 sample message - changed - merge conflict
